@@ -78,7 +78,7 @@
     "@pnotify/bootstrap4": "^5",
     "@pnotify/font-awesome5": "^5",
     "popper.js": "^1.15.0",
-    "quasar": "^1.6.1",
+    "quasar": "^2.22.0",
     "respond.js": "^1.4.2",
     "sass-material-colors": "^0.0.5",
     "select2": "^4.0.8",
@@ -87,7 +87,7 @@
     "store": "^2.0.12",
     "tributejs": "^5.0.0",
     "url-polyfill": "^1.1.7",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "whatwg-fetch": "^3.6.2"
   },
   "resolutions": {},
